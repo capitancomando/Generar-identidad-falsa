@@ -1,4 +1,7 @@
 #!/bin/bash
+
+apt install w3m -y
+
 clear
 setterm -foreground red
 
