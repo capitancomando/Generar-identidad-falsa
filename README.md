@@ -13,6 +13,6 @@ $ cd Generar-identidad-falsa
 
 $ ls
 
-$ chmod 711 generador.sh
+$ chmod 711 Generador.sh
 
-$ bash generador.sh
+$ bash Generador.sh
