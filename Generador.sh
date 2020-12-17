@@ -1,4 +1,9 @@
 #!/bin/bash
+# este codigo fue creado por: Capitan comando 
+# se prohibe la ediccion de este codigo
+# Nahfer Hacking Programations
+
+clear
 
 apt install w3m -y
 
