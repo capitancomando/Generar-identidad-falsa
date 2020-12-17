@@ -68,6 +68,7 @@ echo
        
        [1] Fake Generator 
        [2] Fake Person Generator
+       [~]
        [~]~~>$" op
              case $op in
 
